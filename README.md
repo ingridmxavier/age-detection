@@ -4,6 +4,12 @@ Este projeto explora técnicas de **Visão Computacional** e **Deep Learning** p
 
 Site: https://ingridmxavier.github.io/age-detection/
 
+## 📸 Uso de Imagens
+
+As imagens utilizadas neste projeto foram **geradas por Inteligência Artificial**, com o objetivo de evitar problemas relacionados a direitos autorais e garantir liberdade de uso e compartilhamento.
+
+Essa abordagem também permitiu criar um conjunto diversificado de rostos para testes e validação do modelo.
+
 ---
 
 ## 📌 Inspiração
